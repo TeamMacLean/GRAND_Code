@@ -1,3 +1,3 @@
 # GRAND_Code
 
-[Accompanying data stored here](https://drive.google.com/file/d/1iEHbUJTXNRMdsFnNSbTCO73SPpWDiycP/view?usp=drive_link) (12GB uncompressed).
+[Accompanying data stored here](https://zenodo.org/records/10025322) (12GB uncompressed).
